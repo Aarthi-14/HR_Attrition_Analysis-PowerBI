@@ -9,6 +9,7 @@
   - [Data Modelling](#data-modelling)
       - [Columns](#columns)
       - [Key Measures](#key-measures)
+      - [DAX Calculated Columns](#dax-calculated-columns)
   
 ### Project Overview
 This data analysis project aims to provide valuable insights to the Organisation on reducing Attrition Rates and suggest some Actionable 
@@ -39,7 +40,7 @@ Name:[Hr-Employee-Attrition.csv]
 
 Table: HR-Employee-Attrition
 
-#### Columns:
+#### Columns
 - Age	
 - Attrition	
 - BusinessTravel	
@@ -77,7 +78,7 @@ Table: HR-Employee-Attrition
 - YearsWithCurrManager
 
 
-#### Key Measures:
+#### Key Measures
 1. Attrition Count:
    - Measures the No. of employees who left the organization.
    - Formula: Attrition Count = CALCULATE(COUNTROWS('HR-Employee-Attrition'), 'HR-Employee-Attrition'[Attrition] = "Yes")
@@ -143,7 +144,7 @@ Table: HR-Employee-Attrition
     - Formula: Training_Rate = DIVIDE(sum('HR-Employee-Attrition'[TrainingTimesLastYear]), [Attrition Count], 0) *100
 
 
-#### DAX Calculated Columns:
+#### DAX Calculated Columns
 
 1. Age Category:
    - Purpose: Categorizes employees into specific age groups for demographic analysis.
@@ -165,7 +166,7 @@ Table: HR-Employee-Attrition
                           BLANK())
    - Description: The DistanceFromHome Category DAX column categorizes employees based on the distance (in kilometers) from their home to the workplace using the SWITCH function
 
-### Data Visualization:
+### Data Visualization
 Introduction:
 Visualizations play a crucial role in translating raw data into actionable insights. In this section, we will explore the key visualizations used to analyze HR attrition trends.
 
@@ -175,14 +176,15 @@ Key Visualizations:
 3. Workforce Analysis Dashboard
 4. Employee Wellness Dashboard
 
-#### OverAll KPI Dashbord:
+#### OverAll KPI Dashbord
 This dashboard presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
 - Users can Interact with Visualization such as slicers for Gender/Department/Job Role.
 
-
-
 ![overallkpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/39fada9b-2ccd-4198-839a-fc6d9df6684f)
+
+Out of 1470 Total Employees, 237 Employees left the company which estimates 16.12 % Attrition Rate.
+![image](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/78bc6909-6d69-43d2-8a23-7ab6da88374d)
 
 
 
