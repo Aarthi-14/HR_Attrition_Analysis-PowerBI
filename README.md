@@ -5,7 +5,7 @@
 - [Data Sources](#data-sources)
 - [Objective](#objective)
 - [Methodology](#methodology)
-  - [Data Cleaning/Prepation](#data-cleaning/preparation)
+  - [Data Cleaning/Preparation](#data-cleaning/preparation)
   - [Data Modelling](#data-modelling)
       - [Columns](#columns)
       - [Key Measures](#key-measures)
