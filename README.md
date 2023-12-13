@@ -68,15 +68,88 @@ Table: HR-Employee-Attrition
 - YearsSinceLastPromotion
 - YearsWithCurrManager
 
-...
-Measures:
 
-TotalEmployees = COUNTROWS(EmployeeData)
-AverageSalary = AVERAGE(EmployeeData[Salary])
-...
-Calculated Columns:
+#### Key Measures:
+1. Attrition Count:
+   - Measures the No. of employees who left the organization.
+   - Formula: Attrition Count = CALCULATE(COUNTROWS('HR-Employee-Attrition'), 'HR-Employee-Attrition'[Attrition] = "Yes")
+2. Total No.of Employees:
+   - Measures the Total No. of Employees in the Company
+   - Formula: Total No.of Employees = COUNT('HR-Employee-Attrition'[EmployeeNumber]) 
+3. Attrition Rate:
+   - Measures the percentage of employees who left the organization.
+   - Formula: Attrition rate % = DIVIDE([Attrition Count],[Total No.of Employees],0)*100
+4. Average Monthly Salary:
+   - Gives the average monthly income of employees.
+   - Formula: AVERAGE_Monthly_SALARY = CALCULATE(AVERAGE('HR-Employee-Attrition'[MonthlyIncome]))
+5. Average Tenure at the Current Role:
+   - Calculates the average number of years departing employees spent at the company.
+   - Formula: Average_Tenure_at_currentRole = CALCULATE(AVERAGE('HR-Employee-Attrition'[YearsInCurrentRole]))
+6. Average Age of the Employees:
+   - Provides the average age of employees who have left the organization
+   - Formula: AVG_Age = CALCULATE(VALUE(AVERAGE(('HR-Employee-Attrition'[Age]))))
+7. Average Distance From Home:
+   - Indicates the average distance from home for employees.
+   - Formula: AVG_Distance_from_Home = CALCULATE(AVERAGE('HR-Employee-Attrition'[DistanceFromHome]))
+8. Average Percentage Hike:
+   - Provides the average percentage hike given to the Employees.
+   - Formula: Avg_Perc_Hike = CALCULATE(AVERAGE('HR-Employee-Attrition'[PercentSalaryHike]))
+9. Average Monthly Rate:
+    - Measures the Average rate fixed by the company.
+    - Formula: AVG_Rate = CALCULATE(AVERAGE('HR-Employee-Attrition'[MonthlyRate]))
+10. Average Tenure at the Company:
+    - Measures the Average Tenure of the Employees at the company.
+    - Formula: AVG_Tenure_at_the_Company = CALCULATE(AVERAGE('HR-Employee-Attrition'[YearsAtCompany]))
+11. Average Tenute since Last Promotion:
+    - Measures the Average Tenure of the Employees since Last Promotion
+    - Formula: AVG_Tenure_since_LastPromotion = CALCULATE(AVERAGE('HR-Employee-Attrition'[YearsSinceLastPromotion]))
+12. Average Work-Life Balance:
+    - Indicates the average work-life balance satisfaction of departing employees.
+    - Formula: AVG_WorkLife_Balance = CALCULATE(AVERAGE('HR-Employee-Attrition'[WorkLifeBalance]),
+                                                'HR-Employee-Attrition'[Attrition] = "Yes")
+13. Environment Satisfaction Index:
+    - Represents the average level of satisfaction with the work environment.
+    - Formula: Environment_Satisfaction_Index = CALCULATE(AVERAGE('HR-Employee-Attrition'[EnvironmentSatisfaction]))
+14. Job Involvement Index:
+    - Represents the average level of job involvement among employees.
+    - Formula: Job_Involvement_Index = CALCULATE(AVERAGE('HR-Employee-Attrition'[JobInvolvement]))
+15. Job Satisfaction Index:
+    - Represents the average level of job satisfaction among employees.
+    - Formula: Job_Satisfaction_Index = CALCULATE(AVERAGE('HR-Employee-Attrition'[JobSatisfaction]))
+16. Managerial Change Rate:
+    - Measures the percentage of employees who recently changed managers.
+    - Formula: Managerial_Change_Rate = COUNTROWS(FILTER('HR-Employee-Attrition', 'HR-Employee-Attrition'[YearsWithCurrManager] = 0)) / COUNTROWS('HR-Employee-Attrition')
+17. OverTime Rate:
+    - Indicates the percentage of departing employees who worked overtime.
+    - Formula: OverTime_Rate = DIVIDE(
+                          COUNTROWS(FILTER('HR-Employee-Attrition', 'HR-Employee-Attrition'[OverTime_New] = 1)),
+                          [Total No.of Employees],0) * 100
+18. Performance Rating Index:
+    - Analyzes the distribution of performance ratings.
+    - Formula: Performane_Rating_Index = AVERAGE('HR-Employee-Attrition'[PerformanceRating])
+19. Ralationship Satisfaction Index:
+    - Represents the average level of relationship satisfaction among employees.
+    - Formula: Relationship_Satis_Index = CALCULATE(AVERAGE('HR-Employee-Attrition'[RelationshipSatisfaction]))
+20. Training Rate:
+    - Measures the percentage of employees who underwent training.
+    - Formula: Training_Rate = DIVIDE(sum('HR-Employee-Attrition'[TrainingTimesLastYear]), [Attrition Count], 0) *100
 
-YearsOfService = DATEDIFF(EmployeeData[JoinDate], TODAY(), YEAR
+
+#### DAX Calculated Columns:
+
+1. Age_Category = SWITCH(
+                      TRUE(),
+                      VALUE('HR-Employee-Attrition'[Age]) < 30, "BELOW 30",
+                      AND(VALUE('HR-Employee-Attrition'[Age]) >= 30, VALUE('HR-Employee-Attrition'[Age]) <= 40), "30-40",
+                      VALUE('HR-Employee-Attrition'[Age]) > 40, "ABOVE 40",
+                      BLANK())
+2. Distancefromhom = SWITCH(
+                          TRUE(),
+                          VALUE('HR-Employee-Attrition'[DistanceFromHome]) < 10, "< 10 km",
+                          AND(VALUE('HR-Employee-Attrition'[DistanceFromHome])>= 10, VALUE('HR-Employee-Attrition'[DistanceFromHome]) <= 20), "10 -20 km",
+                          VALUE('HR-Employee-Attrition'[DistanceFromHome]) > 20, "20-30 km",
+                          BLANK())
+
 Developed various visuals such as Bar Charts, Line Charts, Funnel Charts, Donut Charts, Stacked Bar Charts, Clustered Bar Charts, and Gauge visuals for the Dashboards.
 Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
 Tools Used:
