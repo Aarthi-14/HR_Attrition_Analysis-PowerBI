@@ -137,18 +137,29 @@ Table: HR-Employee-Attrition
 
 #### DAX Calculated Columns:
 
-1. Age_Category = SWITCH(
+1. Age Category:
+   - Purpose: Categorizes employees into specific age groups for demographic analysis.
+   - Formula: Age_Category = SWITCH(
                       TRUE(),
                       VALUE('HR-Employee-Attrition'[Age]) < 30, "BELOW 30",
                       AND(VALUE('HR-Employee-Attrition'[Age]) >= 30, VALUE('HR-Employee-Attrition'[Age]) <= 40), "30-40",
                       VALUE('HR-Employee-Attrition'[Age]) > 40, "ABOVE 40",
                       BLANK())
-2. Distancefromhom = SWITCH(
+   - Description: The Age Category DAX column uses the SWITCH function to categorize employees into different age groups based on their age.
+
+2. Distance from Home:
+   - Purpose: Categorizes employees based on the distance of their home from the workplace. 
+   - Distancefromhom = SWITCH(
                           TRUE(),
                           VALUE('HR-Employee-Attrition'[DistanceFromHome]) < 10, "< 10 km",
                           AND(VALUE('HR-Employee-Attrition'[DistanceFromHome])>= 10, VALUE('HR-Employee-Attrition'[DistanceFromHome]) <= 20), "10 -20 km",
                           VALUE('HR-Employee-Attrition'[DistanceFromHome]) > 20, "20-30 km",
                           BLANK())
+   - Description: The DistanceFromHome Category DAX column categorizes employees based on the distance (in kilometers) from their home to the workplace using the SWITCH function
+
+### Data Visualization:
+Introduction:
+Visualizations play a crucial role in translating raw data into actionable insights. In this section, we will explore the key visualizations used to analyze HR attrition trends.
 
 Developed various visuals such as Bar Charts, Line Charts, Funnel Charts, Donut Charts, Stacked Bar Charts, Clustered Bar Charts, and Gauge visuals for the Dashboards.
 Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
