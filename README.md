@@ -1,4 +1,4 @@
-# HR Attrition Analysis PowerBI
+# HR Attrition Analysis-PowerBI Project
 
 ## Table of Contents
 - [Project Overview](#project-overview)
