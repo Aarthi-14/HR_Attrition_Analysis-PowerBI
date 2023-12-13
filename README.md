@@ -10,6 +10,8 @@
       - [Columns](#columns)
       - [Key Measures](#key-measures)
       - [DAX Calculated Columns](#dax-calculated-columns)
+  - [Data Visualization](#data-visualization)
+      - [OverAll KPI Dashboard](#overall-kpi-dashboard)
   
 ### Project Overview
 This data analysis project aims to provide valuable insights to the Organisation on reducing Attrition Rates and suggest some Actionable 
