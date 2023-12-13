@@ -182,6 +182,7 @@ This dashboard presents a comprehensive view of overall attrition trends.
 
 
 
+![overallkpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/39fada9b-2ccd-4198-839a-fc6d9df6684f)
 
 
 
