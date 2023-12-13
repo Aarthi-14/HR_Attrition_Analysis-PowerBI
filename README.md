@@ -1,7 +1,15 @@
 # HR Attrition Analysis PowerBI
 
 ## Table of Contents
-
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Objective](#objective)
+- [Methodology](#methodology)
+  - [Data Cleaning/Prepation](#data-cleaning/preparation)
+  - [Data Modelling](#data-modelling)
+      - [Columns](#columns)
+      - [Key Measures](#key-measures)
+  
 ### Project Overview
 This data analysis project aims to provide valuable insights to the Organisation on reducing Attrition Rates and suggest some Actionable 
 recommendations to improve better work Environment.  
@@ -160,6 +168,25 @@ Table: HR-Employee-Attrition
 ### Data Visualization:
 Introduction:
 Visualizations play a crucial role in translating raw data into actionable insights. In this section, we will explore the key visualizations used to analyze HR attrition trends.
+
+Key Visualizations:
+1. OverAll KPI Dashboard
+2. Company's Perspective Dashboard
+3. Workforce Analysis Dashboard
+4. Employee Wellness Dashboard
+
+#### OverAll KPI Dashbord:
+This dashboard presents a comprehensive view of overall attrition trends. 
+- Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
+- Users can Interact with Visualization such as slicers for Gender/Department/Job Role.
+
+
+
+
+
+
+
+... [Add as needed]
 
 Developed various visuals such as Bar Charts, Line Charts, Funnel Charts, Donut Charts, Stacked Bar Charts, Clustered Bar Charts, and Gauge visuals for the Dashboards.
 Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
