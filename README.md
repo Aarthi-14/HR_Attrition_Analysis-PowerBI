@@ -178,31 +178,43 @@ Key Visualizations:
 3. Workforce Analysis Dashboard
 4. Employee Wellness Dashboard
 
+## Key Insights
+     1. Out of 1470 Total Employees, 237 is the Attrition Count which estimates 16.12 % Attrition Rate.
+     2. R&D Department has the Highest Attrition Count of 133, followed by Sales Department with 92 Attrition count.
+     3. Attrition by Gender gives an Insight that out of 237 Employees, 150 are the Male Employees and 87 are the Female Employees.
+     4. Lab Technician is the Job Role which has Highest Attrition count of 62 by Job Role.
+     
 #### OverAll KPI Dashbord
 This dashboard presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
 - Users can Interact with Visualization such as slicers for Gender/Department/Job Role.
 
-![overallkpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/39fada9b-2ccd-4198-839a-fc6d9df6684f)
-
-
-    - Key Insights
-     1. Out of 1470 Total Employees, 237 is the Attrition Count which estimates 16.12 % Attrition Rate.
-     2. R&D Department has the Highest Attrition Count of 133, followed by Sales Department with 92 Attrition count.
-     3. Attrition by Gender gives an Insight that out of 237 Employees, 150 are the Male Employees and 87 are the Female Employees.
-     4. Lab Technician is the Job Role which has Highest Attrition count of 62 by Job Role.
+![overallkpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/39fada9b-2ccd-4198-839a-fc6d9df6684f)   
+ 
 
 
 
+ 1. Attrition count by Department:
+    - Used Funnel Chart for this visualization that gives attrition trends by department.
+  
+      ![Attritionbydept](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/326d6a9f-9e4b-4351-b25c-7369a8d4f4a5)
+ 
+ 2. Attrition by Job Role:
+    - Used Clustered column Chart for this visualization that gives attrition trends by Job Role.
+  
+      ![attritionbyjobrole](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4c9bca1b-83ee-4286-b2f0-b21c8acac31f)
+ 
+ 3. Attrition by Gender:
+    - Used Donut Chart for this visualization that gives attrition count by Gender.
 
+      ![attrition by gender](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/48a008b6-30fb-4f40-96ac-19978aa735ef)
 
+4. Attrition by Age Category:
+    - Used Donut Chart for this visualization that gives attrition count by Age Category.
+    - Created Calculated DAX column for Age category.
+  
+      ![attrition by age](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/b7ef8e66-85c6-40f8-8fc3-51db87867059)
 
-
-
-
-... [Add as needed]
-
-Developed various visuals such as Bar Charts, Line Charts, Funnel Charts, Donut Charts, Stacked Bar Charts, Clustered Bar Charts, and Gauge visuals for the Dashboards.
 Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
 Tools Used:
 
