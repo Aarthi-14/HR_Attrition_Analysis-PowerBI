@@ -189,28 +189,43 @@ This dashboard presents a comprehensive view of overall attrition trends.
 ![overallkpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/39fada9b-2ccd-4198-839a-fc6d9df6684f)   
  
 
- 1. Attrition count by Department:
+ 1. Total No. Of Employees, Attrition Count and Attrition Rate.
+    - Used Card Visuals that gives the Total No. of Employees, Attrition Count and Attrition Rate.
+
+      ![kpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/f6934c1c-2289-42e0-bcf8-bdaee6febe22)
+
+      
+ 2.  Attrition count by Department:
     - Used Funnel Chart for this visualization that gives attrition trends by department.
   
-      ![Attritionbydept](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/326d6a9f-9e4b-4351-b25c-7369a8d4f4a5)
+       ![Attritionbydept](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/326d6a9f-9e4b-4351-b25c-7369a8d4f4a5)
  
- 2. Attrition by Job Role:
-    - Used Clustered column Chart for this visualization that gives attrition trends by Job Role.
+ 4. Attrition by Job Role:
+    - Used Clustered column Chart for this visualization that gives attrition count of the Employees by Job Role.
   
       ![attritionbyjobrole](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4c9bca1b-83ee-4286-b2f0-b21c8acac31f)
  
- 3. Attrition by Gender:
-    - Used Donut Chart for this visualization that gives attrition count by Gender.
+ 7. Attrition by Gender:
+    - Used Donut Chart for this visualization that gives attrition count of the Employees by Gender.
 
       ![attrition by gender](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/48a008b6-30fb-4f40-96ac-19978aa735ef)
 
-4. Attrition by Age Category:
+8. Attrition by Age Category:
     - Created Calculated DAX column for Age category.
-    - Used Donut Chart for this visualization that gives attrition count by Age Category.
+    - Used Donut Chart for this visualization that gives attrition count of the Employees by Age Category.
   
       ![attrition by age](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/b7ef8e66-85c6-40f8-8fc3-51db87867059)
 
-Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
+ 9. Attrition by Education:
+    - Used Clustered Bar Chart for this visualization that gives attrition Rate of the Employees by Education.
+
+      ![Attrition by education](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/bc60651e-8af8-4b28-828c-e3326a8c5fd3)
+
+
+#### Company's Perspective Dashboard
+This dashboard presents a comprehensive view of overall attrition trends. 
+- Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
+- Users can Interact with Visualization such as slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
 Tools Used:
 
 PowerBI Desktop - For Analysis
