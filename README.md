@@ -5,7 +5,7 @@
 - [Data Sources](#data-sources)
 - [Objective](#objective)
 - [Methodology](#methodology)
-  - [Data Cleaning](#data-cleaning)
+  - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
   - [Data Modelling](#data-modelling)
       - [Columns](#columns)
       - [Key Measures](#key-measures)
@@ -29,7 +29,7 @@ Employee data: The primary dataset is in CSV file "Hr-Employee-Attrition.csv" co
 
 ### Methodology
 
-### Data Cleaning
+### Data Cleaning and Transformation
 In the initial Data Preparation, we performed the following Tasks:
 1. Data Loading and Inspection.
 2. Handling Missing Values & Removing Duplicates Values and Removing Redundant Column
