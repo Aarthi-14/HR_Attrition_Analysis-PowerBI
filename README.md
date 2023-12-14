@@ -225,8 +225,19 @@ This dashboard presents a comprehensive view of overall attrition trends.
 
 ### Company's Perspective Dashboard
 This dashboard presents a comprehensive view of overall attrition trends. 
-- Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
-- Users can Interact with Visualization such as slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
+- By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year and Average Work-Life Balance gives key valuable Insights that leads to higher Attrition Rates.
+- Users can Interact with any Visualization such as slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
+
+![company's perspective](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/a79c3674-9043-4cd0-8c3f-91bf2777da3a)
+
+ 1. Attrition Rate Vs Average Monthly Salary by Job Role:
+    - In this Line Chart Visual, Average Monthly of the Employees by Job Role is compared with Attrition Rate which provides information that the Attrition Rate is higher for the Job Roles with Lower Pay such as Sales Representative and Lab Techncian role.
+    - Users can Interact with any Visualization such as slicers for Gender/Department.
+
+    ![2023-12-14_21h31_17](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/3c4d31a2-583d-4426-b81a-029204071173)
+
+
+
 Tools Used:
 
 PowerBI Desktop - For Analysis
