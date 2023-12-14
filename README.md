@@ -189,8 +189,6 @@ This dashboard presents a comprehensive view of overall attrition trends.
 ![overallkpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/39fada9b-2ccd-4198-839a-fc6d9df6684f)   
  
 
-
-
  1. Attrition count by Department:
     - Used Funnel Chart for this visualization that gives attrition trends by department.
   
@@ -207,8 +205,8 @@ This dashboard presents a comprehensive view of overall attrition trends.
       ![attrition by gender](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/48a008b6-30fb-4f40-96ac-19978aa735ef)
 
 4. Attrition by Age Category:
-    - Used Donut Chart for this visualization that gives attrition count by Age Category.
     - Created Calculated DAX column for Age category.
+    - Used Donut Chart for this visualization that gives attrition count by Age Category.
   
       ![attrition by age](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/b7ef8e66-85c6-40f8-8fc3-51db87867059)
 
