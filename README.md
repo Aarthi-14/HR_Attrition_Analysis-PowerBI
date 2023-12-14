@@ -236,6 +236,11 @@ This dashboard presents a comprehensive view of overall attrition trends.
 
     ![2023-12-14_21h31_17](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/3c4d31a2-583d-4426-b81a-029204071173)
 
+ 1. Attrition Rate Vs Average Monthly Salary and Average Rate by Job Role:
+    - In this Line Chart Visual, Average Monthly of the Employees and Average Rate by Job Role is compared with Attrition Rate which provides information that the AVerage Monthly Salary is too low comparing to Average Monthly Rate fixed by the Company for the Job Roles sales Representative and Lab Technician Job Role. It also corresponds to Higher Attrition Rate.
+    - Users can Interact with any Visualization such as slicers for Gender/Department.
+
+    ![Avg Rate](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/006b5b0a-f222-47ba-8b17-77aff4c3f66a)
 
 
 Tools Used:
