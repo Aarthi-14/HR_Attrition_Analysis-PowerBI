@@ -185,7 +185,7 @@ Key Visualizations:
 ### OverAll KPI Dashboard
 This dashboard presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
-- Users can Interact with Visualization such as slicers for Gender/Department/Job Role.
+- Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
 
 ![overallkpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/39fada9b-2ccd-4198-839a-fc6d9df6684f)   
  
@@ -226,22 +226,31 @@ This dashboard presents a comprehensive view of overall attrition trends.
 ### Company's Perspective Dashboard
 This dashboard presents a comprehensive view of overall attrition trends. 
 - By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year and Average Work-Life Balance gives key valuable Insights that leads to higher Attrition Rates.
-- Users can Interact with any Visualization such as slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
+- Users can Interact with any Visualization by using slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
 
 ![company's perspective](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/a79c3674-9043-4cd0-8c3f-91bf2777da3a)
 
  1. Attrition Rate Vs Average Monthly Salary by Job Role:
-    - In this Line Chart Visual, Average Monthly of the Employees by Job Role is compared with Attrition Rate which provides information that the Attrition Rate is higher for the Job Roles with Lower Pay such as Sales Representative and Lab Techncian role.
-    - Users can Interact with any Visualization such as slicers for Gender/Department.
+    - In this Line Chart Visual, Average Monthly of the Employees by Job Role is compared with Attrition Rate which provides an information that the Attrition Rate is higher for the Job Roles with Lower Pay such as Sales Representative and Lab Techncian role.
+    - Users can Interact with any Visualization by using slicers for Gender/Department.
 
     ![2023-12-14_21h31_17](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/3c4d31a2-583d-4426-b81a-029204071173)
 
- 1. Attrition Rate Vs Average Monthly Salary and Average Rate by Job Role:
-    - In this Line Chart Visual, Average Monthly of the Employees and Average Rate by Job Role is compared with Attrition Rate which provides information that the AVerage Monthly Salary is too low comparing to Average Monthly Rate fixed by the Company for the Job Roles sales Representative and Lab Technician Job Role. It also corresponds to Higher Attrition Rate.
-    - Users can Interact with any Visualization such as slicers for Gender/Department.
+ 2. Attrition Rate Vs Average Monthly Salary and Average Rate by Job Role:
+    - In this Line and Clustered Column Chart Visual, Average Monthly Salary of the Employees and Average Rate by Job Role is compared with Attrition Rate which provides an information that the AVerage Monthly Salary is too low comparing to Average Monthly Rate fixed by the Company for the Job Roles Sales Representative and Lab Technician. It also corresponds to Higher Attrition Rate.
+    - Users can Interact with any Visualization by using slicers for Gender/Department.
 
     ![Avg Rate](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/006b5b0a-f222-47ba-8b17-77aff4c3f66a)
 
+ 3. Attrition Rate Vs Average Training times Last year by Job Role:
+    - In this Line Chart Visual, Average Training Times of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales Representative has Undergone Highest Training Times last Year has Highest Attrition Rate which clearly shows that Company incured Loss on Training Cost for these Job Roles.
+    - Users can Interact with any Visualization by using slicers for Gender/Department.
+   
+ 4. Attrition Count Vs Average Work Life Balance:
+    - Used Donut Chart for this visualization that gives attrition count based on the Average Work Life Balance.
+    - Users can Interact with any Visualization by using slicers for Gender/Department.
+
+    ![Work life balance](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4857db27-9f44-4682-a63a-36416d1945d0)
 
 Tools Used:
 
