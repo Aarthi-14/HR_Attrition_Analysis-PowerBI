@@ -184,7 +184,7 @@ Key Visualizations:
      3. Attrition by Gender gives an Insight that out of 237 Employees, 150 are the Male Employees and 87 are the Female Employees.
      4. Lab Technician is the Job Role which has Highest Attrition count of 62 by Job Role.
      
-#### OverAll KPI Dashbord
+#### OverAll KPI Dashboard
 This dashboard presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
 - Users can Interact with Visualization such as slicers for Gender/Department/Job Role.
