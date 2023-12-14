@@ -38,10 +38,7 @@ In the initial Data Preparation, we performed the following Tasks:
 ### Data Modelling
 Since There is only one table containing all information, data modelling process included creating Key Measures and Calculated columns for Analysis.
 
-Name:[Hr-Employee-Attrition.csv]
-
 Table: HR-Employee-Attrition
-
 #### Columns
 - Age	
 - Attrition	
