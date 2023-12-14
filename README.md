@@ -12,6 +12,7 @@
       - [DAX Calculated Columns](#dax-calculated-columns)
   - [Data Visualization](#data-visualization)
       - [OverAll KPI Dashboard](#overall-kpi-dashboard)
+      - [Company's Perspective Dashboard](#company's-perspective-dashboard)
   
 ### Project Overview
 This data analysis project aims to provide valuable insights to the Organisation on reducing Attrition Rates and suggest some Actionable 
@@ -181,7 +182,7 @@ Key Visualizations:
      3. Attrition by Gender gives an Insight that out of 237 Employees, 150 are the Male Employees and 87 are the Female Employees.
      4. Lab Technician is the Job Role which has Highest Attrition count of 62 by Job Role.
      
-#### OverAll KPI Dashboard
+### OverAll KPI Dashboard
 This dashboard presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
 - Users can Interact with Visualization such as slicers for Gender/Department/Job Role.
@@ -222,7 +223,7 @@ This dashboard presents a comprehensive view of overall attrition trends.
       ![Attrition by education](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/bc60651e-8af8-4b28-828c-e3326a8c5fd3)
 
 
-#### Company's Perspective Dashboard
+### Company's Perspective Dashboard
 This dashboard presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
 - Users can Interact with Visualization such as slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
