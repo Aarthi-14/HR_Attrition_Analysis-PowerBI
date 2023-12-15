@@ -12,7 +12,7 @@
       - [DAX Calculated Columns](#dax-calculated-columns)
   - [Data Visualization](#data-visualization)
       - [OverAll KPI Dashboard](#overall-kpi-dashboard)
-      - [Company's Perspective Dashboard](#company's-perspective-dashboard)
+      - [Companys Perspective Dashboard](#companys-perspective-dashboard)
   
 ### Project Overview
 This data analysis project aims to provide valuable insights to the Organisation on reducing Attrition Rates and suggest some Actionable 
@@ -223,7 +223,7 @@ This dashboard presents a comprehensive view of overall attrition trends.
       ![Attrition by education](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/bc60651e-8af8-4b28-828c-e3326a8c5fd3)
 
 
-### Company's Perspective Dashboard
+### Companys Perspective Dashboard
 This dashboard presents a comprehensive view of overall attrition trends. 
 - By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year and Average Work-Life Balance gives key valuable Insights that leads to higher Attrition Rates.
 - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
