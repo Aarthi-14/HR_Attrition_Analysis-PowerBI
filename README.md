@@ -262,7 +262,16 @@ This dashboard presents a comprehensive view of overall Workforce trends by Attr
 
     ![Workforce Analysis](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/cc5b2522-bff1-46bc-97b6-1c3b9cdd3cb7)
 
-1.
+1. Average Percentage Hike, Average Monthly Salary, Average Age, Average Distance From, Job Satisfaction Index, Job Involvement Index, Average Tenure at Current Role.
+   - Used Card Visuals for these metrics.
+   - User can interact with these Metrics by using Slicers For Department/Gender/Attrition/Job Role.
+
+     ![avg PERCT-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/d147d480-368f-44f7-9a1f-606e1d083c7f)
+     ![Avg monthly sal-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/07d81b7f-4129-4344-a34d-ab402c03eb46)
+     ![AVG age-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/bc8cdc62-6abc-4f7e-bb0e-f5c6c5ae9a74)
+     ![AVG_tENURE-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/fd985374-2669-4053-847a-325f9d7f5ea5)
+     ![Avgdistance-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4c2ed189-a0e8-49cb-9b7a-4a846e14f3ca)
+
 
 Tools Used:
 
