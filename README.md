@@ -315,7 +315,8 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
 
  2. Attrition Rate Vs Business Travel by Job Role:
     - In this Line and Stacked Column Chart Visual, Business Travel of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales with Highest Business Travel has Highest Attrition Rate.
-    - Users can Interact with any Visualization by using slicers for Gender/Department. 
+    - Users can Interact with any Visualization by using slicers for Gender/Department.
+      
      ![Businesstravel-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/9a0013ad-d0a8-4462-acfb-c8ef93abb7a3)
 
 3. Managerial Change Rate Vs Attrition Rate:
