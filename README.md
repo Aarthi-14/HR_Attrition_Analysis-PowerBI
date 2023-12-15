@@ -229,6 +229,7 @@ This dashboard presents a comprehensive view of overall attrition trends.
 
 
 ### Companys Perspective Dashboard
+
 This dashboard presents a comprehensive view of overall attrition trends. 
 - By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year and Average Work-Life Balance gives key valuable Insights that leads to higher Attrition Rates.
 - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
@@ -261,6 +262,7 @@ This dashboard presents a comprehensive view of overall attrition trends.
     ![Work life balance](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4857db27-9f44-4682-a63a-36416d1945d0)
 
 ### Workforce Analysis Dashboard
+
 This dashboard presents a comprehensive view of overall Workforce trends by Attrition. 
   - Key metrics include Average Age, Average Percentage Hike, Average Monthly salary, Environment satisfaction Index, Job satisfaction index, Job Involvement Index, Average Tenure at the Company by Job Role are there in this Dashboard.
   - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role/Attrition.
@@ -329,24 +331,21 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
      ![Managerialchange-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4e7177d9-e485-44f7-a4c1-3be82d88c686)
 
 ### Key Insights
+
     - Attrition Rate Trends:
         - Out of 1470 Total Employees, 237 Employees left the company which estimates 16.12 % Attrition Rate.
-        
     - Departmental Variances:
         - 133  is the Attrition count in R&D Department, followed by Sales Department with 92 Attrition count.
         - Lab Technician is the Job Role which has the Highest Attrition Count of 62 in R&D Department with Average Monthly salary of 3237.14.
         - Sales Representative is the Job Role which has Highest Attrition Rate of 39.76% with Average Monthly salary of 2626.
-        
     - Demographic Analysis:
         - Attrition by Gender gives an Insight that out of 237 Employees, 150 are the Male Employees and 87 are the Female Employees.
         - The Average Age of the Employees Under Attrition Category is 34.
     - Correlation with Satisfaction Surveys:
         - The Job Satisfaction Index is 2 (Employees under Attrition Category) which shows Employees are dissatisfied with their Job.
         - The Average Work-Life Balance of the Employees under Attrition category is 3(Average).
-        
     - Identification of High-Risk Roles:
         - Sales Representative, Sales Executive, Lab Technician Job Roles are at Higher likelihood of Attrition by Job role.
-
     - Cost Analysis:
         -  As per the Analysis, Sales Representative and Lab Technician are the Job roles that undergone Highest Average Training Times Last Year have the Highest Attrition Rate which indicates that company has incured loss on both Recruitment cost and Training cost.
 
@@ -365,6 +364,7 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
     11. Employee Engagement Initiatives
 
 ### Recommendations
+
     - Competitive Compensation Strategies:
           Keep up with market rates to ensure employees receive competitive salaries and comprehensive compensation packages.
     - Career Growth Opportunities:
