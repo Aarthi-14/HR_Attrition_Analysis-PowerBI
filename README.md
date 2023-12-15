@@ -332,21 +332,21 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
 
 ### Key Insights
 
-    - Attrition Rate Trends:
+ #### Attrition Rate Trends:
         - Out of 1470 Total Employees, 237 Employees left the company which estimates 16.12 % Attrition Rate.
-    - Departmental Variances:
+ #### Departmental Variances:
         - 133  is the Attrition count in R&D Department, followed by Sales Department with 92 Attrition count.
         - Lab Technician is the Job Role which has the Highest Attrition Count of 62 in R&D Department with Average Monthly salary of 3237.14.
         - Sales Representative is the Job Role which has Highest Attrition Rate of 39.76% with Average Monthly salary of 2626.
-    - Demographic Analysis:
+ #### Demographic Analysis:
         - Attrition by Gender gives an Insight that out of 237 Employees, 150 are the Male Employees and 87 are the Female Employees.
         - The Average Age of the Employees Under Attrition Category is 34.
-    - Correlation with Satisfaction Surveys:
+ #### Correlation with Satisfaction Surveys:
         - The Job Satisfaction Index is 2 (Employees under Attrition Category) which shows Employees are dissatisfied with their Job.
         - The Average Work-Life Balance of the Employees under Attrition category is 3(Average).
-    - Identification of High-Risk Roles:
+ #### Identification of High-Risk Roles:
         - Sales Representative, Sales Executive, Lab Technician Job Roles are at Higher likelihood of Attrition by Job role.
-    - Cost Analysis:
+ #### Cost Analysis:
         -  As per the Analysis, Sales Representative and Lab Technician are the Job roles that undergone Highest Average Training Times Last Year have the Highest Attrition Rate which indicates that company has incured loss on both Recruitment cost and Training cost.
 
 ### Succession Planning Opportunities:
@@ -365,21 +365,21 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
 
 ### Recommendations
 
-    - Competitive Compensation Strategies:
+ #### Competitive Compensation Strategies:
           Keep up with market rates to ensure employees receive competitive salaries and comprehensive compensation packages.
-    - Career Growth Opportunities:
+ #### Career Growth Opportunities:
           Foster an environment that provides clear pathways for career advancement and growth within the organization.
-    - Cultivating a Positive Workplace Culture:
+ #### Cultivating a Positive Workplace Culture:
           Actively work to improve workplace culture, creating an environment that promotes collaboration, inclusion, and employee satisfaction.
-    - Prioritizing Work-Life Balance:
+ #### Prioritizing Work-Life Balance:
           Recognize and prioritize the importance of work-life balance to enhance employee well-being and job satisfaction.
-    - Recognition and Rewards Programs:
+ #### Recognition and Rewards Programs:
           Implement effective programs to recognize and reward employees for their contributions and achievements.
-    - Strategic Recruitment Practices:
+ #### Strategic Recruitment Practices:
           Ensure that the recruitment process aligns with the specific job roles, bringing in individuals who are well-suited for the positions.
-    - Leadership and Management Transformation:
+ #### Leadership and Management Transformation:
           Overhaul leadership and management styles to foster a more efficient, supportive, and empowering work environment.
-    - Flexible Work Arrangements for Overtime:
+ #### Flexible Work Arrangements for Overtime:
           Offer flexibility to employees who work overtime, allowing for adaptable work arrangements that accommodate their needs
 
 ### Challenges faced
