@@ -44,41 +44,24 @@ Since There is only one table containing all information, data modelling process
 
 Table: HR-Employee-Attrition
 #### Columns
-- Age	
-- Attrition	
-- BusinessTravel	
-- DailyRate	
-- Department	
-- DistanceFromHome	
-- Education	
-- EducationField	
-- EmployeeCount	
-- EmployeeNumber	
-- EnvironmentSatisfaction
-- Gender	
-- HourlyRate	
-- JobInvolvement	
-- JobLevel	
-- JobRole
-- JobSatisfaction	
+- Age	                        - MonthlyIncome
+- Attrition	                  - MonthlyRate	
+- BusinessTravel	            - NumCompaniesWorked	
+- DailyRate	                  - Over18	
+- Department	                - OverTime	
+- DistanceFromHome            - PercentSalaryHike		
+- Education	                  - PerformanceRating	
+- EducationField              - RelationshipSatisfaction		
+- EmployeeCount	              - StandardHours	
+- EmployeeNumber	            - StockOptionLevel	
+- EnvironmentSatisfaction     - TotalWorkingYears	
+- Gender	                    - TrainingTimesLastYear	
+- HourlyRate	                - WorkLifeBalance	
+- JobInvolvement	            - YearsAtCompany	
+- JobLevel	                  - YearsInCurrentRole	
+- JobRole                     - YearsSinceLastPromotion
+- JobSatisfaction	            - YearsWithCurrManager
 - MaritalStatus	
-- MonthlyIncome
-- MonthlyRate	
-- NumCompaniesWorked	
-- Over18	
-- OverTime	
-- PercentSalaryHike	
-- PerformanceRating	
-- RelationshipSatisfaction	
-- StandardHours	
-- StockOptionLevel	
-- TotalWorkingYears	
-- TrainingTimesLastYear	
-- WorkLifeBalance	
-- YearsAtCompany	
-- YearsInCurrentRole	
-- YearsSinceLastPromotion
-- YearsWithCurrManager
 
 #### Key Measures
 1. Attrition Count:
