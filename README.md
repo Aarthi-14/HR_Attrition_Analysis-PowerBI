@@ -15,10 +15,10 @@
       - [Companys Perspective Dashboard](#companys-perspective-dashboard)
       - [Workforce Analysis Dashboard](#workforce-analysis-dashboard)
       - [Employee Wellness Dashboard](#employee-wellness-dashboard)
-  -[Key Insights](#key-insights)
-  -[Succession Planning](#succession-planning)
-  -[Recommendations](#recommendations)
--[Conclusion](#conclusion)
+  - [Key Insights](#key-insights)
+  - [Succession Planning](#succession-planning)
+  - [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
   
 ### Project Overview
 This data analysis project aims to provide valuable insights to the Organisation on reducing Attrition Rates and suggest some Actionable 
