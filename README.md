@@ -278,7 +278,22 @@ This dashboard presents a comprehensive view of overall Workforce trends by Attr
    - Used Gauge Visual for this Metric.
    - User can interact with these Metrics by using Slicers For Department/Gender/Attrition/Job Role.
 
-     
+     ![AVG age-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/bced4f37-7c25-454c-a88b-960bcccc175a)
+
+3. Average Tenure at the Company by Job Role:
+   - Used clustered Bar Chart for this visual to analyze Employees Tenure Patterns Based on the Job Role.
+   - User can interact with these Metrics by using Slicers For Department/Gender/Attrition/Job Role.
+  
+     ![Avg tenure by job-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/71d7476b-6862-45be-b1ff-8edfce67bae8)
+
+4. Average Tenure since Last Promotion by Job Role Vs Attrition Rate:
+   - Used Line and clustered Column Chart for this visual to analyze Employees Tenure Patterns Based on the Job Role with Attrition Rate.
+   - User can interact with these Metrics by using Slicers For Department/Gender/Attrition/Job Role.
+
+     ![avg tenurelastpromo-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/296881ca-ddf9-400f-96cd-7f512b192465)
+
+
+
 
 Tools Used:
 
