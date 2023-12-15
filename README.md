@@ -180,12 +180,6 @@ Key Visualizations:
 2. Company's Perspective Dashboard
 3. Workforce Analysis Dashboard
 4. Employee Wellness Dashboard
-
-## Key Insights
-     1. Out of 1470 Total Employees, 237 is the Attrition Count which estimates 16.12 % Attrition Rate.
-     2. R&D Department has the Highest Attrition Count of 133, followed by Sales Department with 92 Attrition count.
-     3. Attrition by Gender gives an Insight that out of 237 Employees, 150 are the Male Employees and 87 are the Female Employees.
-     4. Lab Technician is the Job Role which has Highest Attrition count of 62 by Job Role.
      
 ### OverAll KPI Dashboard
 This dashboard presents a comprehensive view of overall attrition trends. 
