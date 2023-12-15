@@ -29,10 +29,10 @@ recommendations to improve better work Environment.
 Employee data: The primary dataset is in CSV file "Hr-Employee-Attrition.csv" containing Employee Details of the Organisation.
 
 ### Tools Used
-PowerBI Desktop - For Analysis
-MS PowerPoint - For Presentation
-Screenpresso - For Recording Video
-Canva - For Video Editing
+- PowerBI Desktop : For Analysis
+- MS PowerPoint : For Presentation
+- Screenpresso : For Recording Video
+- Canva : For Video Editing
 
 ### Objective
 - The organization is currently experiencing a period of increased employee turnover.
