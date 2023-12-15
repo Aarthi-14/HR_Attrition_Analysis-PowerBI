@@ -13,7 +13,8 @@
   - [Data Visualization](#data-visualization)
       - [OverAll KPI Dashboard](#overall-kpi-dashboard)
       - [Companys Perspective Dashboard](#companys-perspective-dashboard)
-      - [Workforce Analysis](#workforce-analysis)
+      - [Workforce Analysis Dashboard](#workforce-analysis-dashboard)
+      - [Employee Wellness Dashboard](#employee-wellness-dashboard)
       - 
   
 ### Project Overview
@@ -300,7 +301,6 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
     - Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
 
 
-     ![Employee wellness](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/afed1d04-2d74-48d2-b35a-e4a1e95a6181)
      
      
 Tools Used:
