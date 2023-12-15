@@ -297,8 +297,8 @@ This dashboard presents a comprehensive view of overall Workforce trends by Attr
 
 ### Employee Wellness Dashboard
 This dashboard presents a comprehensive view of overall Employee Wellness.
-    - Analysing by the Key metrics include Relationship Satisfaction Index, Performance Satisfaction Index,Environment Satisfaction Index, Overtime Rate, Training Rate, Business Travel, Managerial Change Rate to find the Impact On Higher Attrition Rates.
-    - Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
+     - Analysing by the Key metrics include Relationship Satisfaction Index, Performance Satisfaction Index,Environment Satisfaction Index, Overtime Rate, Training Rate, Business Travel, Managerial Change Rate to find the Impact On Higher Attrition Rates.
+     - Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
 
 
      
