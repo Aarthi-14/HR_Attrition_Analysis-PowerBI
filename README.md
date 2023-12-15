@@ -15,7 +15,10 @@
       - [Companys Perspective Dashboard](#companys-perspective-dashboard)
       - [Workforce Analysis Dashboard](#workforce-analysis-dashboard)
       - [Employee Wellness Dashboard](#employee-wellness-dashboard)
-      - 
+  -[Key Insights](#key-insights)
+  -[Succession Planning](#succession-planning)
+  -[Recommendations](#recommendations)
+-[Conclusion](#conclusion)
   
 ### Project Overview
 This data analysis project aims to provide valuable insights to the Organisation on reducing Attrition Rates and suggest some Actionable 
@@ -325,7 +328,72 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
 
      ![Managerialchange-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4e7177d9-e485-44f7-a4c1-3be82d88c686)
 
+### Key Insights
+    - Attrition Rate Trends:
+        - Out of 1470 Total Employees, 237 Employees left the company which estimates 16.12 % Attrition Rate.
+        
+    - Departmental Variances:
+        - 133  is the Attrition count in R&D Department, followed by Sales Department with 92 Attrition count.
+        - Lab Technician is the Job Role which has the Highest Attrition Count of 62 in R&D Department with Average Monthly salary of 3237.14.
+        - Sales Representative is the Job Role which has Highest Attrition Rate of 39.76% with Average Monthly salary of 2626.
+        
+    - Demographic Analysis:
+        - Attrition by Gender gives an Insight that out of 237 Employees, 150 are the Male Employees and 87 are the Female Employees.
+        - The Average Age of the Employees Under Attrition Category is 34.
+    - Correlation with Satisfaction Surveys:
+        - The Job Satisfaction Index is 2 (Employees under Attrition Category) which shows Employees are dissatisfied with their Job.
+        - The Average Work-Life Balance of the Employees under Attrition category is 3(Average).
+        
+    - Identification of High-Risk Roles:
+        - Sales Representative, Sales Executive, Lab Technician Job Roles are at Higher likelihood of Attrition by Job role.
 
+    - Cost Analysis:
+        -  As per the Analysis, Sales Representative and Lab Technician are the Job roles that undergone Highest Average Training Times Last Year have the Highest Attrition Rate which indicates that company has incured loss on both Recruitment cost and Training cost.
+
+### Succession Planning Opportunities:
+
+    1. Identifying High-Potential Employees
+    2. Developing Leadership Training Programs
+    3. Creating Talent Pipelines
+    4. Cross-Training and Skill Development
+    5. Knowledge Transfer Programs
+    6. Succession Planning for Critical Departments
+    7. Creating Mentorship Programs
+    8. Encouraging Career Development Discussions
+    9. Internal Promotions and Advancements
+    10. Strategic Recruitment for Critical Roles
+    11. Employee Engagement Initiatives
+
+### Recommendations
+    - Competitive Compensation Strategies:
+          Keep up with market rates to ensure employees receive competitive salaries and comprehensive compensation packages.
+    - Career Growth Opportunities:
+          Foster an environment that provides clear pathways for career advancement and growth within the organization.
+    - Cultivating a Positive Workplace Culture:
+          Actively work to improve workplace culture, creating an environment that promotes collaboration, inclusion, and employee satisfaction.
+    - Prioritizing Work-Life Balance:
+          Recognize and prioritize the importance of work-life balance to enhance employee well-being and job satisfaction.
+    - Recognition and Rewards Programs:
+          Implement effective programs to recognize and reward employees for their contributions and achievements.
+    - Strategic Recruitment Practices:
+          Ensure that the recruitment process aligns with the specific job roles, bringing in individuals who are well-suited for the positions.
+    - Leadership and Management Transformation:
+          Overhaul leadership and management styles to foster a more efficient, supportive, and empowering work environment.
+    - Flexible Work Arrangements for Overtime:
+          Offer flexibility to employees who work overtime, allowing for adaptable work arrangements that accommodate their needs
+
+### Challenges faced
+Navigating data challenges, including quality issues and limited historical data, integrating diverse data sources, addressing privacy concerns, and managing resource constraints. Communicating complex findings effectively, defining meaningful KPIs, overcoming biases, and adapting to unexpected external factors. Balancing technology/tool challenges, obtaining comprehensive employee feedback, and aligning analysis with organizational goals pose additional complexities.
+
+### Conclusion:
+
+
+
+
+
+
+
+   
 PowerBI Desktop - For Analysis
 MS PowerPoint - For Presentation
 Screenpresso - For Video Presentation
