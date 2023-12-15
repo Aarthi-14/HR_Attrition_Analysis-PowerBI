@@ -245,12 +245,24 @@ This dashboard presents a comprehensive view of overall attrition trends.
  3. Attrition Rate Vs Average Training times Last year by Job Role:
     - In this Line Chart Visual, Average Training Times of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales Representative has Undergone Highest Training Times last Year has Highest Attrition Rate which clearly shows that Company incured Loss on Training Cost for these Job Roles.
     - Users can Interact with any Visualization by using slicers for Gender/Department.
+
+    ![AVG training](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/e4623bee-c3ab-408e-9715-57c88c4c6a43)
+
    
  4. Attrition Count Vs Average Work Life Balance:
     - Used Donut Chart for this visualization that gives attrition count based on the Average Work Life Balance.
     - Users can Interact with any Visualization by using slicers for Gender/Department.
 
     ![Work life balance](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4857db27-9f44-4682-a63a-36416d1945d0)
+
+### Workforce Analysis Dashboard
+This dashboard presents a comprehensive view of overall Workforce trends by Attrition. 
+  - Key metrics include Average Age, Average Percentage Hike, Average Monthly salary, Environment satisfaction Index, Job satisfaction index, Job Involvement Index, Average Tenure at the Company by Job Role are there in this Dashboard.
+  - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role/Attrition.
+
+    ![Workforce Analysis](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/cc5b2522-bff1-46bc-97b6-1c3b9cdd3cb7)
+
+1.
 
 Tools Used:
 
