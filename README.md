@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
 - [Objective](#objective)
 - [Methodology](#methodology)
   - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
@@ -25,7 +26,13 @@ This data analysis project aims to provide valuable insights to the Organisation
 recommendations to improve better work Environment.  
 
 #### Data Sources
-Employee data: The primary dataset is in CSV file "Hr-Employee-Attrition.csv" containing Employee Details of the Organisation
+Employee data: The primary dataset is in CSV file "Hr-Employee-Attrition.csv" containing Employee Details of the Organisation.
+
+### Tools Used
+PowerBI Desktop - For Analysis
+MS PowerPoint - For Presentation
+Screenpresso - For Recording Video
+Canva - For Video Editing
 
 ### Objective
 - The organization is currently experiencing a period of increased employee turnover.
@@ -380,20 +387,5 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
 Navigating data challenges, including quality issues and limited historical data, integrating diverse data sources, addressing privacy concerns, and managing resource constraints. Communicating complex findings effectively, defining meaningful KPIs, overcoming biases, and adapting to unexpected external factors. Balancing technology/tool challenges, obtaining comprehensive employee feedback, and aligning analysis with organizational goals pose additional complexities.
 
 ### Conclusion:
-
-
-
-
-
-
-
-   
-PowerBI Desktop - For Analysis
-MS PowerPoint - For Presentation
-Screenpresso - For Video Presentation
-
-
-
-
-Dataset: CSV File containing Employee details and Ratings based on Feedbacks.
+In conclusion, this HR Attrition Analysis project has provided valuable insights into the organization's workforce dynamics. By analyzing trends, identifying key factors contributing to attrition, and offering actionable recommendations, this analysis contributes to informed decision-making. As we move forward, we anticipate that implementing the recommended strategies will positively impact employee retention, satisfaction, and overall organizational success. We acknowledge the lessons learned during this project and look forward to applying these insights in future HR analytics initiatives. Our commitment to data-driven decision-making remains steadfast, aligning with the organization's broader goals and fostering a culture of continuous improvement."
 
