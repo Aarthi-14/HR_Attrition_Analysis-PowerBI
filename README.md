@@ -77,7 +77,6 @@ Table: HR-Employee-Attrition
 - YearsSinceLastPromotion
 - YearsWithCurrManager
 
-
 #### Key Measures
 1. Attrition Count:
    - Measures the No. of employees who left the organization.
@@ -293,8 +292,15 @@ This dashboard presents a comprehensive view of overall Workforce trends by Attr
      ![avg tenurelastpromo-3](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/296881ca-ddf9-400f-96cd-7f512b192465)
 
 
+### Employee Wellness Dashboard
+This dashboard presents a comprehensive view of overall Employee Wellness.
+    - Analysing by the Key metrics include Relationship Satisfaction Index, Performance Satisfaction Index,Environment Satisfaction Index, Overtime Rate, Training Rate, Business Travel, Managerial Change Rate to find the Impact On Higher Attrition Rates.
+    - Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
 
 
+     ![Employee wellness](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/afed1d04-2d74-48d2-b35a-e4a1e95a6181)
+     
+     
 Tools Used:
 
 
