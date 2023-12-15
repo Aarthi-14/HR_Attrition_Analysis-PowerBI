@@ -320,8 +320,10 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
      ![Businesstravel-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/9a0013ad-d0a8-4462-acfb-c8ef93abb7a3)
 
 3. Managerial Change Rate Vs Attrition Rate:
-Tools Used:
+    - In this Line and Clustered Column Chart Visual, Mnagerial Change Rate of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales with Highest Business Travel has Highest Attrition Rate for the Sales Representative Job Role.
+    - Users can Interact with any Visualization by using slicers for Gender/Department.
 
+     ![Managerialchange-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4e7177d9-e485-44f7-a4c1-3be82d88c686)
 
 
 PowerBI Desktop - For Analysis
