@@ -302,7 +302,7 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
 
 
  1. Overtime Rate, Training Rate, Average Tenure since Last Promotion, Relationship Satisfaction Index, Environment Satisfaction Index, Performance Rating Index.
-    - Used Card Visuals for these metrics.
+    - Used Gauge Visuals for these metrics.
     - User can interact with these Metrics by using Slicers For Department/Gender/Attrition/Job Role.
 
       ![overtimerate-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4847c05a-073c-4c4c-8761-631e61da916c)
@@ -313,16 +313,12 @@ This dashboard presents a comprehensive view of overall Employee Wellness.
       ![EnvironmentSatisfaction-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/52216090-2083-41d3-849c-773c6aed1871)
       ![performancerating-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/2311c7a7-abff-4407-a262-f97c7c2a3d5e)
 
-
-
-
-
-
-      
- 3. Attrition Rate Vs Business Travel by Job Role:
-    - In this Line Chart Visual, Average Training Times of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales Representative has Undergone Highest Training Times last Year has Highest Attrition Rate which clearly shows that Company incured Loss on Training Cost for these Job Roles.
+ 2. Attrition Rate Vs Business Travel by Job Role:
+    - In this Line and Stacked Column Chart Visual, Business Travel of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales with Highest Business Travel has Highest Attrition Rate.
     - Users can Interact with any Visualization by using slicers for Gender/Department. 
-     
+     ![Businesstravel-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/9a0013ad-d0a8-4462-acfb-c8ef93abb7a3)
+
+3. Managerial Change Rate Vs Attrition Rate:
 Tools Used:
 
 
