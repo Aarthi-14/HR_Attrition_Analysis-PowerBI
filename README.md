@@ -207,7 +207,7 @@ This Page presents a comprehensive view of overall attrition trends.
 
  
  4. Attrition by Job Role:
-    - Used Clustered column Chart for this visualization that gives attrition count of the Employees by Job Role.
+    - Used Waterfall Chart for this visualization that gives attrition count of the Employees by Job Role.
 
  ![2024-10-25_13h08_48](https://github.com/user-attachments/assets/78c37806-ff4e-411d-885c-7b1423fbf4ad)
 
@@ -231,8 +231,8 @@ This Page presents a comprehensive view of overall attrition trends.
 
 ### Workforce Analysis
 
-This dashboard presents a comprehensive view of overall attrition trends. 
-- By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year and Average Work-Life Balance gives key valuable Insights that leads to higher Attrition Rates.
+This page presents a comprehensive view of Workforce. 
+- By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year  gives key valuable Insights that leads to higher Attrition Rates.
 - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
 
 ![workforce analysis](https://github.com/user-attachments/assets/596e2e18-240c-4e3d-a028-9fc76cc6678d)
@@ -264,8 +264,8 @@ This dashboard presents a comprehensive view of overall attrition trends.
 
 ### Correlation Analysis
 
-This dashboard presents a comprehensive view of overall Workforce trends by Attrition. 
-  - Key metrics include Average Age, Average Percentage Hike, Average Monthly salary, Environment satisfaction Index, Job satisfaction index, Job Involvement Index, Average Tenure at the Company by Job Role are there in this Dashboard.
+This page presents a comprehensive view of overall Workforce trends by Attrition. 
+  - Key metrics include indices like Environment satisfaction Index, Job satisfaction index, Job Involvement Index, Average Tenure at the Company by Job Role are there in this Page.
   - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role/Attrition.
 
 ![Correlation Analysis](https://github.com/user-attachments/assets/c0ac7c4c-4cd6-4641-ab56-670c85a2e6c4)
