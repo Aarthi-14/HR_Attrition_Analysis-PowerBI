@@ -293,7 +293,7 @@ This page presents a comprehensive view of overall Workforce trends by Attrition
     - In this Line and Clustered Column Chart Visual, Mnagerial Change Rate of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales with Highest Business Travel has Highest Attrition Rate for the Sales Representative Job Role.
     - Users can Interact with any Visualization by using slicers for Gender/Department.
 
-     ![Managerialchange-4](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/4e7177d9-e485-44f7-a4c1-3be82d88c686)
+    ![2024-10-25_13h10_51](https://github.com/user-attachments/assets/8d81e504-543d-454b-be86-f67c65621c91)
 
 ### Key Insights
 
