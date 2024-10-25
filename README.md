@@ -191,9 +191,9 @@ This Page presents a comprehensive view of overall attrition trends.
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
 - Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
 
-![overallkpi](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/39fada9b-2ccd-4198-839a-fc6d9df6684f)   
- 
+![Executive View](https://github.com/user-attachments/assets/a4038b3d-e636-46e2-958a-9b8fd7499e25)
 
+ 
  1. Total No. Of Employees, Attrition Count and Attrition Rate.
     - Used Card Visuals that gives the Total No. of Employees, Attrition Count and Attrition Rate.
 
@@ -227,13 +227,14 @@ This Page presents a comprehensive view of overall attrition trends.
       ![Attrition by education](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/bc60651e-8af8-4b28-828c-e3326a8c5fd3)
 
 
-### Companys Perspective Dashboard
+### Workforce Analysis
 
 This dashboard presents a comprehensive view of overall attrition trends. 
 - By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year and Average Work-Life Balance gives key valuable Insights that leads to higher Attrition Rates.
 - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
 
-![company's perspective](https://github.com/Aarthi-14/HR_Attrition_Analysis-PowerBI/assets/147639053/a79c3674-9043-4cd0-8c3f-91bf2777da3a)
+![workforce analysis](https://github.com/user-attachments/assets/86a42c88-44e8-4014-b751-b46c0a6694e1)
+
 
  1. Attrition Rate Vs Average Monthly Salary by Job Role:
     - In this Line Chart Visual, Average Monthly of the Employees by Job Role is compared with Attrition Rate which provides an information that the Attrition Rate is higher for the Job Roles with Lower Pay such as Sales Representative and Lab Techncian role.
