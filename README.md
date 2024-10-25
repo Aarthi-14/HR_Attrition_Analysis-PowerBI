@@ -12,10 +12,9 @@
       - [Key Measures](#key-measures)
       - [DAX Calculated Columns](#dax-calculated-columns)
   - [Data Visualization](#data-visualization)
-      - [OverAll KPI Dashboard](#overall-kpi-dashboard)
-      - [Companys Perspective Dashboard](#companys-perspective-dashboard)
-      - [Workforce Analysis Dashboard](#workforce-analysis-dashboard)
-      - [Employee Wellness Dashboard](#employee-wellness-dashboard)
+      - [Executive Summary](#executive-summary)
+      - [Workforce Analysis](#workforce-analysis)
+      - [Correlation Analysis](#correlation-analysis)
   - [Key Insights](#key-insights)
   - [Succession Planning](#succession-planning)
   - [Recommendations](#recommendations)
@@ -183,13 +182,12 @@ Introduction:
 Visualizations play a crucial role in translating raw data into actionable insights. In this section, we will explore the key visualizations used to analyze HR attrition trends.
 
 Key Visualizations:
-1. OverAll KPI Dashboard
-2. Company's Perspective Dashboard
-3. Workforce Analysis Dashboard
-4. Employee Wellness Dashboard
+1. Executive Summary
+2. Workforce Analysis 
+3. Correlation Analysis
      
-### OverAll KPI Dashboard
-This dashboard presents a comprehensive view of overall attrition trends. 
+### Executive Summary
+This Page presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
 - Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
 
