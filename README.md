@@ -11,9 +11,9 @@
       - [Executive Summary](#executive-summary)
       - [Workforce Analysis](#workforce-analysis)
       - [Correlation Analysis](#correlation-analysis)
-  - [Key Insights](#key-insights)
-  - [Succession Planning](#succession-planning)
-  - [Recommendations](#recommendations)
+- [Key Insights](#key-insights)
+- [Succession Planning](#succession-planning)
+- [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
   
 ### Project Overview
