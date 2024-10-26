@@ -71,6 +71,7 @@ This Page presents a comprehensive view of overall attrition trends.
 
  ![2024-10-25_13h08_48](https://github.com/user-attachments/assets/78c37806-ff4e-411d-885c-7b1423fbf4ad)
 
+
  7. Attrition by Gender:
     - Out of 133 Attrition count, 90 are male & 43 are female.
      
@@ -88,6 +89,8 @@ This Page presents a comprehensive view of overall attrition trends.
 
 ![2024-10-25_13h08_59](https://github.com/user-attachments/assets/e4c542ad-2dbd-4252-b2d3-88de11f9e5d3)
 
+
+
 ### Workforce Analysis
 
 This page presents a comprehensive view of Workforce. 
@@ -98,27 +101,29 @@ This page presents a comprehensive view of Workforce.
 
 
  1. Attrition Rate Vs Average Monthly Salary by Job Role:
-    - This Line Chart Visual clearly shows that, the Average Monthly salary 
+    - This Line Chart Visual clearly shows that, the Attrition Rate % is inversely proportional to Average Monthly salary, which means the higher the salary the Attrition rate is lower & lower the Average Monthly salary, the higher the attrition rate.
+    - The Avearge Monthly salary of Sales Representative is 2.63k which could be the reason for Higher Attriton rate of 39.76% 
 
 ![2024-10-25_13h09_28](https://github.com/user-attachments/assets/1a49d927-3a3e-46a6-b53c-932bb6485742)
 
+
  2. Attrition Rate Vs Average Monthly Salary and Average Rate by Job Role:
     - In this Line and Clustered Column Chart Visual, Average Monthly Salary of the Employees and Average Rate by Job Role is compared with Attrition Rate which provides an information that the AVerage Monthly Salary is too low comparing to Average Monthly Rate fixed by the Company for the Job Roles Sales Representative and Lab Technician. It also corresponds to Higher Attrition Rate.
-    - Users can Interact with any Visualization by using slicers for Gender/Department.
 
   ![2024-10-25_13h09_38](https://github.com/user-attachments/assets/035269e9-88f3-4509-ac67-846213bcfacb)
 
+
  3. Attrition Rate Vs Average Training times Last year by Job Role:
     - In this Line Chart Visual, Average Training Times of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales Representative has Undergone Highest Training Times last Year has Highest Attrition Rate which clearly shows that Company incured Loss on Training Cost for these Job Roles.
-    - Users can Interact with any Visualization by using slicers for Gender/Department.
 
 ![2024-10-25_13h10_07](https://github.com/user-attachments/assets/fc6b5b0f-646e-47b8-94e5-2ab95f80502f)
+
    
- 4. Attrition Count Vs Average Work Life Balance:
-    - Used Donut Chart for this visualization that gives attrition count based on the Average Work Life Balance.
-    - Users can Interact with any Visualization by using slicers for Gender/Department.
+ 4. Attrition Rate Vs Business Travel:
+    - The Higher the Business Travel, the Higher the Attrition rate. Sales Representative & Lab Technician are the roles have the highest Business Travel which could be one of the reason for Attrition rate.
 
 ![2024-10-25_13h09_51](https://github.com/user-attachments/assets/8a0c8fd4-6cca-4059-ab91-3ff47f935113)
+
 
 ### Correlation Analysis
 
@@ -127,6 +132,7 @@ This page presents a comprehensive view of overall Workforce trends by Attrition
   - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role/Attrition.
 
 ![Correlation Analysis](https://github.com/user-attachments/assets/c0ac7c4c-4cd6-4641-ab56-670c85a2e6c4)
+
 
 
 1. This dashboard presents a comprehensive view of overall Employee Wellness.
