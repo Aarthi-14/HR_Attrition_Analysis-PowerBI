@@ -51,7 +51,7 @@ This Page presents a comprehensive view of overall attrition trends.
     - The Average Monthly Salary is 6.5K & Average Age is 37
     - Out of 237 Attrition count, 150 are male & 87 are female.
 
-![2024-10-25_13h08_01](https://github.com/user-attachments/assets/16291876-7a4e-40b6-81f6-f8ce9ae3c21d)
+      ![2024-10-25_13h08_01](https://github.com/user-attachments/assets/16291876-7a4e-40b6-81f6-f8ce9ae3c21d)
 
       
  2.  Attrition count by Department:
@@ -59,33 +59,32 @@ This Page presents a comprehensive view of overall attrition trends.
     - In HR Department, out of 63, 12 is the Attrition count & 19.05% is the Attrition rate
     - In R & D Department, the Attrition rate is 13.84% & out of 133 Attrition count, 90 are male & 43 are female.
      
-  ![2024-10-25_13h08_39](https://github.com/user-attachments/assets/047bd33a-747b-4273-9a59-c72b6c1c4831)
+        ![2024-10-25_13h08_39](https://github.com/user-attachments/assets/047bd33a-747b-4273-9a59-c72b6c1c4831)
 
  
- 4. Attrition by Job Role:
+ 3. Attrition by Job Role:
     - Lab Technician is the Job role has the Highest Attrition count of 62, followed by Sales Executive of 57.
     - Sales Representative Job Role has the Highest Attrition rate of 39.76% where the Average Monthly Salary is 2.63k.
 
- ![2024-10-25_13h08_48](https://github.com/user-attachments/assets/78c37806-ff4e-411d-885c-7b1423fbf4ad)
+       ![2024-10-25_13h08_48](https://github.com/user-attachments/assets/78c37806-ff4e-411d-885c-7b1423fbf4ad)
 
 
- 7. Attrition by Gender:
+ 4. Attrition by Gender:
     - Out of 133 Attrition count, 90 are male & 43 are female.
      
-![2024-10-25_13h08_16](https://github.com/user-attachments/assets/fe9db66f-095d-4a7a-9b8e-73ef25757297)
+      ![2024-10-25_13h08_16](https://github.com/user-attachments/assets/fe9db66f-095d-4a7a-9b8e-73ef25757297)
 
 
-8. Attrition by Age Category:
+5. Attrition by Age Category:
     - Out of 133 Attrition count, 91 are below 30 Age Category, 94 are 30-40 age category and 52 are above 40 age category.
       
-![2024-10-25_13h08_29](https://github.com/user-attachments/assets/68e5f6e4-d64d-4443-80ad-9cee1f4e59db)
+      ![2024-10-25_13h08_29](https://github.com/user-attachments/assets/68e5f6e4-d64d-4443-80ad-9cee1f4e59db)
 
 
- 9. Attrition by Education:
+ 6. Attrition by Education:
     - Life science has the highest attrition rate of 89, in which 51 are male & 38 are female, 33 belongs to lab technician role & 20 belongs to sales executive role.
 
-![2024-10-25_13h08_59](https://github.com/user-attachments/assets/e4c542ad-2dbd-4252-b2d3-88de11f9e5d3)
-
+      ![2024-10-25_13h08_59](https://github.com/user-attachments/assets/e4c542ad-2dbd-4252-b2d3-88de11f9e5d3)
 
 
 ### Workforce Analysis
@@ -94,45 +93,45 @@ This page presents a comprehensive view of Workforce.
 - By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year  gives key valuable Insights that leads to higher Attrition Rates.
 - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
 
-![workforce analysis](https://github.com/user-attachments/assets/596e2e18-240c-4e3d-a028-9fc76cc6678d)
+      ![workforce analysis](https://github.com/user-attachments/assets/596e2e18-240c-4e3d-a028-9fc76cc6678d)
 
 
  1. Attrition Rate Vs Average Monthly Salary by Job Role:
     - This Line Chart Visual clearly shows that, the Attrition Rate % is inversely proportional to Average Monthly salary, which means the higher the salary the Attrition rate is lower & lower the Average Monthly salary, the higher the attrition rate.
     - The Avearge Monthly salary of Sales Representative is 2.63k which could be the reason for Higher Attriton rate of 39.76% 
 
-![2024-10-25_13h09_28](https://github.com/user-attachments/assets/1a49d927-3a3e-46a6-b53c-932bb6485742)
+      ![2024-10-25_13h09_28](https://github.com/user-attachments/assets/1a49d927-3a3e-46a6-b53c-932bb6485742)
 
 
  2. Attrition Rate Vs Average Monthly Salary and Average Rate by Job Role:
     - In this Line and Clustered Column Chart Visual, Average Monthly Salary of the Employees and Average Rate by Job Role is compared with Attrition Rate which provides an information that the AVerage Monthly Salary is too low comparing to Average Monthly Rate fixed by the Company for the Job Roles Sales Representative and Lab Technician. It also corresponds to Higher Attrition Rate.
 
-  ![2024-10-25_13h09_38](https://github.com/user-attachments/assets/035269e9-88f3-4509-ac67-846213bcfacb)
+      ![2024-10-25_13h09_38](https://github.com/user-attachments/assets/035269e9-88f3-4509-ac67-846213bcfacb)
 
 
  3. Attrition Rate Vs Average Training times Last year by Job Role:
     - In this Line Chart Visual, Average Training Times of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales Representative has Undergone Highest Training Times last Year has Highest Attrition Rate which clearly shows that Company incured Loss on Training Cost for these Job Roles.
 
-![2024-10-25_13h10_07](https://github.com/user-attachments/assets/fc6b5b0f-646e-47b8-94e5-2ab95f80502f)
+      ![2024-10-25_13h10_07](https://github.com/user-attachments/assets/fc6b5b0f-646e-47b8-94e5-2ab95f80502f)
 
    
  4. Attrition Rate Vs Business Travel:
     - The Higher the Business Travel, the Higher the Attrition rate. Sales Representative & Lab Technician are the roles have the highest Business Travel which could be one of the reason for Attrition rate.
 
-![2024-10-25_13h09_51](https://github.com/user-attachments/assets/8a0c8fd4-6cca-4059-ab91-3ff47f935113)
+      ![2024-10-25_13h09_51](https://github.com/user-attachments/assets/8a0c8fd4-6cca-4059-ab91-3ff47f935113)
 
 
 ### Correlation Analysis
 This page shows a comprehensive view of various rating correlations with Attrition. 
   - Key metrics include indices like Environment satisfaction Index, Job satisfaction index, Job Involvement Index, Average Tenure at the Company by Job Role are there in this Page.
 
-![Correlation Analysis](https://github.com/user-attachments/assets/c0ac7c4c-4cd6-4641-ab56-670c85a2e6c4)
+      ![Correlation Analysis](https://github.com/user-attachments/assets/c0ac7c4c-4cd6-4641-ab56-670c85a2e6c4)
 
 
 1. Employees Vs Ratings:
      - Analysing by the Key metrics include Job Involvement Index, Job Satisfaction Index, Relationship Satisfaction Index, Performance Satisfaction Index,Environment Satisfaction Index to find the Impact On Higher Attrition Rates.
      
-![2024-10-25_13h10_24](https://github.com/user-attachments/assets/8fb89342-aeb7-40ca-99cf-c57b2f8f2c7b)
+      ![2024-10-25_13h10_24](https://github.com/user-attachments/assets/8fb89342-aeb7-40ca-99cf-c57b2f8f2c7b)
 
 
 2. Average Tenure since Last Promotion by Job Role Vs Attrition Rate:
