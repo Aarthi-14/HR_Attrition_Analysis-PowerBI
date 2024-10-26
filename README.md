@@ -132,27 +132,26 @@ This page shows a comprehensive view of various rating correlations with Attriti
 ![Correlation Analysis](https://github.com/user-attachments/assets/c0ac7c4c-4cd6-4641-ab56-670c85a2e6c4)
 
 
-1. This dashboard presents a comprehensive view of overall Employee Wellness.
-     - Analysing by the Key metrics include Relationship Satisfaction Index, Performance Satisfaction Index,Environment Satisfaction Index, Overtime Rate, Training Rate, Business Travel, Managerial Change Rate to find the Impact On Higher Attrition Rates.
-     - Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
+1. Employees Vs Ratings:
+     - Analysing by the Key metrics include Job Involvement Index, Job Satisfaction Index, Relationship Satisfaction Index, Performance Satisfaction Index,Environment Satisfaction Index to find the Impact On Higher Attrition Rates.
      
 ![2024-10-25_13h10_24](https://github.com/user-attachments/assets/8fb89342-aeb7-40ca-99cf-c57b2f8f2c7b)
 
-2. Average Tenure at the Company by Job Role:
-   - Used clustered Bar Chart for this visual to analyze Employees Tenure Patterns Based on the Job Role.
-   - User can interact with these Metrics by using Slicers For Department/Gender/Attrition/Job Role.
-  
-    ![2024-10-25_13h10_42](https://github.com/user-attachments/assets/881a2c88-deb1-4dc1-9a7d-d1dc592783c8)
 
-3. Average Tenure since Last Promotion by Job Role Vs Attrition Rate:
-   - Used Line and clustered Column Chart for this visual to analyze Employees Tenure Patterns Based on the Job Role with Attrition Rate.
-   - User can interact with these Metrics by using Slicers For Department/Gender/Attrition/Job Role.
+2. Average Tenure since Last Promotion by Job Role Vs Attrition Rate:
+   - Sales Representative, Lab technician are the Job roles has 1 year of Average Tenure since Last Promotion has a likelihood of Highest Attrition Rate.
 
     ![2024-10-25_13h10_34](https://github.com/user-attachments/assets/62946847-af0c-4268-833a-54a70abf671b)
 
+
+3. Average Tenure at the Company by Job Role:
+   - Sales Representative is the Job role which has least of 3 years as Average Tenure at the company has the likelihood of Higher Attrition Rate.
+  
+    ![2024-10-25_13h10_42](https://github.com/user-attachments/assets/881a2c88-deb1-4dc1-9a7d-d1dc592783c8)
+
+
 4. Managerial Change Rate Vs Attrition Rate:
-    - In this Line and Clustered Column Chart Visual, Mnagerial Change Rate of the Employees by Job Role is compared with Attrition Rate which provides an information that the Job Role Sales with Highest Business Travel has Highest Attrition Rate for the Sales Representative Job Role.
-    - Users can Interact with any Visualization by using slicers for Gender/Department.
+    - Sales Represenetative is the Job Role which has the Highest of 0.4 as Managerial Change Rate has the highest Attrition Rate of 39.76%.
 
     ![2024-10-25_13h10_51](https://github.com/user-attachments/assets/8d81e504-543d-454b-be86-f67c65621c91)
 
