@@ -37,12 +37,7 @@ Employee data: The primary dataset is in CSV file "Hr-Employee-Attrition.csv" co
   identifying contributing factors, and suggesting actionable recommendations to reduce the attrition rate and enhance the work environment.
 
 
-### Data Analysis
-Key Visualizations:
-1. Executive Summary
-2. Workforce Analysis 
-3. Correlation Analysis
-     
+### Data Analysis:  
 ### Executive Summary
 This Page presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
