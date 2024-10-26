@@ -94,7 +94,7 @@ This page presents a comprehensive view of Workforce.
 - By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year  gives key valuable Insights that leads to higher Attrition Rates.
 - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role.Implemented Slicers for filtering insights by Attrition, Department, Gender, and Job Role.
 
-      ![workforce analysis](https://github.com/user-attachments/assets/596e2e18-240c-4e3d-a028-9fc76cc6678d)
+   ![workforce analysis](https://github.com/user-attachments/assets/596e2e18-240c-4e3d-a028-9fc76cc6678d)
 
 
  1. Attrition Rate Vs Average Monthly Salary by Job Role:
@@ -188,21 +188,21 @@ This page shows a comprehensive view of various rating correlations with Attriti
 ### Recommendations
 
  #### Competitive Compensation Strategies:
-      - Keep up with market rates to ensure employees receive competitive salaries and comprehensive compensation packages.
+Keep up with market rates to ensure employees receive competitive salaries and comprehensive compensation packages.
  #### Career Growth Opportunities:
-      - Foster an environment that provides clear pathways for career advancement and growth within the organization.
+Foster an environment that provides clear pathways for career advancement and growth within the organization.
  #### Cultivating a Positive Workplace Culture:
-      - Actively work to improve workplace culture, creating an environment that promotes collaboration, inclusion, and employee satisfaction.
+Actively work to improve workplace culture, creating an environment that promotes collaboration, inclusion, and employee satisfaction.
  #### Prioritizing Work-Life Balance:
-      - Recognize and prioritize the importance of work-life balance to enhance employee well-being and job satisfaction.
+Recognize and prioritize the importance of work-life balance to enhance employee well-being and job satisfaction.
  #### Recognition and Rewards Programs:
-      - Implement effective programs to recognize and reward employees for their contributions and achievements.
+Implement effective programs to recognize and reward employees for their contributions and achievements.
  #### Strategic Recruitment Practices:
-      - Ensure that the recruitment process aligns with the specific job roles, bringing in individuals who are well-suited for the positions.
+Ensure that the recruitment process aligns with the specific job roles, bringing in individuals who are well-suited for the positions.
  #### Leadership and Management Transformation:
-      - Overhaul leadership and management styles to foster a more efficient, supportive, and empowering work environment.
+Overhaul leadership and management styles to foster a more efficient, supportive, and empowering work environment.
  #### Flexible Work Arrangements for Overtime:
-      - Offer flexibility to employees who work overtime, allowing for adaptable work arrangements that accommodate their needs
+Offer flexibility to employees who work overtime, allowing for adaptable work arrangements that accommodate their needs
 
 ### Challenges faced
 Navigating data challenges, including quality issues and limited historical data, integrating diverse data sources, Communicating complex findings effectively and adapting to unexpected external factors. Balancing technology/tool challenges, obtaining comprehensive employee feedback, and aligning analysis with organizational goals pose additional complexities.
