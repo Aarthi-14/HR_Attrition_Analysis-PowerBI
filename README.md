@@ -126,13 +126,10 @@ This page presents a comprehensive view of Workforce.
 
 
 ### Correlation Analysis
-
-This page presents a comprehensive view of overall Workforce trends by Attrition. 
+This page shows a comprehensive view of various rating correlations with Attrition. 
   - Key metrics include indices like Environment satisfaction Index, Job satisfaction index, Job Involvement Index, Average Tenure at the Company by Job Role are there in this Page.
-  - Users can Interact with any Visualization by using slicers for Gender/Department/Job Role/Attrition.
 
 ![Correlation Analysis](https://github.com/user-attachments/assets/c0ac7c4c-4cd6-4641-ab56-670c85a2e6c4)
-
 
 
 1. This dashboard presents a comprehensive view of overall Employee Wellness.
