@@ -60,20 +60,20 @@ This Page presents a comprehensive view of overall attrition trends.
     - In HR Department, out of 63, 12 is the Attrition count & 19.05% is the Attrition rate.
     - In R & D Department, the Attrition rate is 13.84% & out of 133 Attrition count, 90 are male & 43 are female.
      
-        ![2024-10-25_13h08_39](https://github.com/user-attachments/assets/047bd33a-747b-4273-9a59-c72b6c1c4831)
+     ![2024-10-25_13h08_39](https://github.com/user-attachments/assets/047bd33a-747b-4273-9a59-c72b6c1c4831)
 
  
  3. Attrition by Job Role:
     - Lab Technician is the Job role has the Highest Attrition count of 62, followed by Sales Executive of 57.
     - Sales Representative Job Role has the Highest Attrition rate of 39.76% where the Average Monthly Salary is 2.63k.
 
-       ![2024-10-25_13h08_48](https://github.com/user-attachments/assets/78c37806-ff4e-411d-885c-7b1423fbf4ad)
+     ![2024-10-25_13h08_48](https://github.com/user-attachments/assets/78c37806-ff4e-411d-885c-7b1423fbf4ad)
 
 
  4. Attrition by Gender:
     - Out of 133 Attrition count, 90 are male & 43 are female.
      
-      ![2024-10-25_13h08_16](https://github.com/user-attachments/assets/fe9db66f-095d-4a7a-9b8e-73ef25757297)
+    ![2024-10-25_13h08_16](https://github.com/user-attachments/assets/fe9db66f-095d-4a7a-9b8e-73ef25757297)
 
 
 5. Attrition by Age Category:
