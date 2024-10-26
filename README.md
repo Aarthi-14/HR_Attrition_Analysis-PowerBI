@@ -38,6 +38,7 @@ Employee data: The primary dataset is in CSV file "Hr-Employee-Attrition.csv" co
 
 
 ### Data Analysis:  
+
 ### Executive Summary
 This Page presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
@@ -55,8 +56,8 @@ This Page presents a comprehensive view of overall attrition trends.
 
       
  2.  Attrition count by Department:
-    - Sales department has the highest Attrition rate of 20.6% and the average monthly salary of a Sales Representative is 2.63k
-    - In HR Department, out of 63, 12 is the Attrition count & 19.05% is the Attrition rate
+    - Sales department has the highest Attrition rate of 20.6% and the average monthly salary of a Sales Representative is 2.63k.
+    - In HR Department, out of 63, 12 is the Attrition count & 19.05% is the Attrition rate.
     - In R & D Department, the Attrition rate is 13.84% & out of 133 Attrition count, 90 are male & 43 are female.
      
         ![2024-10-25_13h08_39](https://github.com/user-attachments/assets/047bd33a-747b-4273-9a59-c72b6c1c4831)
